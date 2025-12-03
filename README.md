@@ -118,19 +118,6 @@ Include screenshots for:
 
 ## 7. How to Run
 
-### Clone Repository
-
-```bash
-git clone https://github.com/username/insightforge.git
-cd insightforge
-```
-
-### Add API Key
-
-```bash
-export AI_API_KEY="your_key_here"
-```
-
 ### Install Dependencies
 
 ```bash
@@ -147,7 +134,7 @@ python scripts/pipeline.py
 
 ```bash
 # Move a sample file to trigger the pipeline
-mv sample.csv input/
+mv data/dataset.csv input/
 ```
 
 ### Using Docker
