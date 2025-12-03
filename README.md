@@ -144,7 +144,7 @@ pip install -r requirements.txt
 ### Run the Pipeline
 
 ```bash
-python watch.py
+python scripts/pipeline.py
 ```
 
 ### Test the System
