@@ -1,1 +1,1 @@
-Automated Power Point Insight Generator
+gitAutomated Power Point Insight Generator
