@@ -1,7 +1,4 @@
 pandas
 matplotlib
 python-pptx
-seaborn
-plotly
-openai
 fpdf
