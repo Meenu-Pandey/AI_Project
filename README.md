@@ -111,10 +111,8 @@ Eliminate manual reporting and produce analyst-level insights automatically.
 
 Include screenshots for:
 
-* Terminal logs detecting anomalies
-* Sample extracted insights
-* Final report output
-* Auto-generated charts
+<img width="1903" height="843" alt="Screenshot 2025-12-03 135528" src="https://github.com/user-attachments/assets/ea9f5f33-e0f0-4939-81fd-8f9ae001a4bc" />
+
 
 ---
 
