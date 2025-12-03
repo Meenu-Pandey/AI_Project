@@ -1,8 +1,8 @@
-H-001 InsightForge | The Automated Insight Engine
+## H-001 InsightForge | The Automated Insight Engine
 
 Track: Data Engineering & Analytics
 
-1. Context & Problem
+## 1. Context & Problem
 
 AdTech businesses produce massive amounts of data every day—campaign logs, clickstreams, footfall metrics, and even weather signals.
 But there’s a major inefficiency:
@@ -13,7 +13,7 @@ This takes 4–6 hours per week per client, delays decisions, and increases the 
 InsightForge solves this.
 You drop raw data into the system, and within seconds, you get a polished PDF or PPT deck with insights, charts, and AI-generated explanations.
 
-2. Expected End Result
+## 2. Expected End Result
 
 Input:
 A raw CSV file (or SQL export) dropped into an input folder or uploaded via an interface.
@@ -37,7 +37,7 @@ Optional cross-reference with external data (like weather or region-wise events)
 The goal:
 Eliminate manual reporting. Produce analyst-level insights automatically.
 
-3. Technical Approach
+### 3. Technical Approach
 
 InsightForge is built as a simple, reliable ETL pipeline, not just a Python script.
 
