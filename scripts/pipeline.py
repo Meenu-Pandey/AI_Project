@@ -5,10 +5,10 @@ from typing import Union
 
 import pandas as pd
 
-from charts import generate_charts
+from charts import ChartArtifact, generate_charts
 from generate_pdf import build_pdf
 from generate_slides import build_presentation
-from insights import generate_llm_insights
+from insights import InsightSections, generate_llm_insights
 from utils import clean_data, load_csv, load_excel, load_json
 
 INPUT_DIR = Path("data") / "input"
