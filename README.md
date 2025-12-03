@@ -88,8 +88,6 @@ Eliminate manual reporting and produce analyst-level insights automatically.
 | AI              | GPT-4o / Gemini                      |
 | Visualization   | Plotly / Matplotlib                  |
 | Reporting       | WeasyPrint (PDF), python-pptx (PPTX) |
-| Automation      | Watchdog                             |
-| Optional        | Docker for full pipeline isolation   |
 
 ---
 
