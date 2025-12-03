@@ -88,8 +88,6 @@ Eliminate manual reporting and produce analyst-level insights automatically.
 | AI              | GPT-4o / Gemini                      |
 | Visualization   | Plotly / Matplotlib                  |
 | Reporting       | WeasyPrint (PDF), python-pptx (PPTX) |
-| Automation      | Watchdog                             |
-| Optional        | Docker for full pipeline isolation   |
 
 ---
 
@@ -113,27 +111,12 @@ Eliminate manual reporting and produce analyst-level insights automatically.
 
 Include screenshots for:
 
-* Terminal logs detecting anomalies
-* Sample extracted insights
-* Final report output
-* Auto-generated charts
+<img width="1903" height="843" alt="Screenshot 2025-12-03 135528" src="https://github.com/user-attachments/assets/ea9f5f33-e0f0-4939-81fd-8f9ae001a4bc" />
+
 
 ---
 
 ## 7. How to Run
-
-### Clone Repository
-
-```bash
-git clone https://github.com/username/insightforge.git
-cd insightforge
-```
-
-### Add API Key
-
-```bash
-export AI_API_KEY="your_key_here"
-```
 
 ### Install Dependencies
 
@@ -151,7 +134,7 @@ python scripts/pipeline.py
 
 ```bash
 # Move a sample file to trigger the pipeline
-mv sample.csv input/
+mv data/dataset.csv input/
 ```
 
 ### Using Docker
