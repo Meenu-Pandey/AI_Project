@@ -1,5 +1,7 @@
 pandas
 matplotlib
-watchdog
-python-dateutil
 python-pptx
+seaborn
+plotly
+openai
+fpdf
